@@ -6,7 +6,7 @@ This respositary is the collection of all machine learning projects that I have 
 
 ## Authors
 
-- [@EricaDataAnalyst](https://github.com/EricaDataAnalyst)
+- Erica
 
 
 ## 🚀 About Me
@@ -29,7 +29,7 @@ Healthcare, Media & Advertisement, Retail, Real Estate, Research.
 
 🧠 I'm currently learning more and working on projects building ETL pipelines;
 
-📫 How to reach me: ericaw_23@wfu.alumni.edu, or find me in [My LinkedIn](https://www.linkedin.com/in/ericagoat/)
+📫 How to reach me: ericawan945@gmail.com
 
 ⚡️ Fun fact: Huge fan of Boston Dine Out Week!!!!!
 
